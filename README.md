@@ -20,10 +20,10 @@ ____
 ### Took: 16000ms
 ____
 
-To run this yourself
+## To run the test
 
 ```
 yarn && yarn start
 ```
 
-you can change the component `import` at `index.js` 
+then change the component `import` at `index.js` 
