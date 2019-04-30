@@ -15,7 +15,7 @@ ____
 ____
 
 ### Redux Form
-<img src="https://github.com/bluebill1049/react-hook-form-performance-compare/blob/master/imgs/react-hook-form.png" />
+<img src="https://github.com/bluebill1049/react-hook-form-performance-compare/blob/master/imgs/redux-form.png" />
 
 ### Took: 16000ms
 ____
