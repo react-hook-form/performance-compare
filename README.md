@@ -1,4 +1,4 @@
-## React Hook Form Performance Compare
+# React Hook Form Performance Compare
 
 The following images show performance tab for each library under slow x6 CPU
 
